@@ -1,5 +1,7 @@
 # 2020_ECE276A_PR2
  Particle Filter SLAM performed with a LIDAR and IMU dataset obtained from here: https://natanaso.github.io/ece276a/schedule.html
+ 
+Consult my [Project Report](https://github.com/roumenguha/ECE276A_PR2_Particle_Filter_SLAM/blob/master/ECE276A_PR2_Report_Roumen_Guha.pdf) in the code folder for more background. 
 
 Results shown below.
 
