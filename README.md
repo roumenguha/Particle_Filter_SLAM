@@ -1,4 +1,4 @@
-# 2020_ECE276A_PR2
+# Particle Filter SLAM with the THOR robot
  Particle Filter SLAM performed with a LIDAR and IMU dataset obtained from here: https://drive.google.com/drive/folders/1TFdfDbLHE6z8NnHBWQ4BujH0vdGbhUVF?usp=sharing
  
 Consult my [Project Report](https://github.com/roumenguha/ECE276A_PR2_Particle_Filter_SLAM/blob/master/ECE276A_PR2_Report_Roumen_Guha.pdf) in the code folder for more background. 
